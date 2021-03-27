@@ -1,0 +1,16 @@
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\bin\Debug\net5.0\Revisao.exe
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\bin\Debug\net5.0\Revisao.deps.json
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\bin\Debug\net5.0\Revisao.dll
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\bin\Debug\net5.0\Revisao.pdb
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\obj\Debug\net5.0\Revisao.dll
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\obj\Debug\net5.0\Revisao.pdb
+D:\05 - ESTUDANDO\SEGUNDA - QUARTA - SEXTA\01 - MRV .NET Developer\05 - Primeiros passos com .NET + C#\Revisao\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
